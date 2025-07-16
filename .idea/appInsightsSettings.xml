@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.humblecoders.firebasemessaging" />
+                  <option name="mobileSdkAppId" value="1:716170834045:android:191c67e692ce2b6d9c8114" />
+                  <option name="projectId" value="messa-f7545" />
+                  <option name="projectNumber" value="716170834045" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

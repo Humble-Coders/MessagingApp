@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "716170834045",
-    "project_id": "messa-f7545",
-    "storage_bucket": "messa-f7545.firebasestorage.app"
+    "project_number": "164318926885",
+    "project_id": "messaging-27038",
+    "storage_bucket": "messaging-27038.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:716170834045:android:ef55853e741780879c8114",
-        "android_client_info": {
-          "package_name": "com.example.firebasemessaging"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyANBJTjwJY4QzFCB0uzYzLxbGqggtjfyPo"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:716170834045:android:191c67e692ce2b6d9c8114",
+        "mobilesdk_app_id": "1:164318926885:android:f197bbb396a6eea98f47cc",
         "android_client_info": {
           "package_name": "com.humblecoders.firebasemessaging"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyANBJTjwJY4QzFCB0uzYzLxbGqggtjfyPo"
+          "current_key": "AIzaSyCcVfJW07gmwqSMGFnTlGWCgrKuLxWRpek"
         }
       ],
       "services": {
